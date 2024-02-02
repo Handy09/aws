@@ -176,9 +176,5 @@ echo ""  | tee -a log-install.txt
 echo -e "\e[97m------------\e[0m\e[100m\e[97mCopyright © 2022 \e[1;104mBy Gitub.com/syapik96\e[0m\e[97m-------------\e[0m" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo -e " Telegram : t.me/PrinceNewbie" | tee -a log-install.txt
-echo "" | tee -a log-install.txt
-sleep 8
-clear 
-figlet -f slant "Good Bye By Prince" | lolcat
-sleep 2
-reboot
+
+
